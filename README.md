@@ -1,4 +1,5 @@
-# Machine Learning in Python part 2: Classification
+# Machine Learning in Python part 3: Unsupervised learning and PCA
+
 This is a repository for Sydney Informatics Hub's lesson materials for the "Introduction to Machine Learning using Python" workshops.
 
 ## Setup requirements
@@ -19,7 +20,7 @@ In this workshop we’re using Google Colab to modify and run Python code provid
 
 4.	Navigate to the ‘**GitHub**’ tab 
 
-  - Paste this URL <https://github.com/Sydney-Informatics-Hub/lessons-mlpy-part2> into the box provided for GitHub URLs. 
+  - Paste this URL <https://github.com/Sydney-Informatics-Hub/lessons-mlpy-part3> into the box provided for GitHub URLs. 
 
   - Click the search symbol. Additional information about the repository and paths will appear.
 
