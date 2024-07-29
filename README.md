@@ -24,7 +24,7 @@ In this workshop we’re using Google Colab to modify and run Python code provid
 
   - Click the search symbol. Additional information about the repository and paths will appear.
 
-  - In the Path section, click on `02-Classification-Exercises.ipynb` to open the notebook.
+  - In the Path section, click on `03-Unsupervised-Exercises.ipynb` to open the notebook.
 
 ![Screenshot of the Google Colab "Open notebook" dialog, showing the GitHub menu and the GitHub URL input field](fig/setup3.png)  
 
